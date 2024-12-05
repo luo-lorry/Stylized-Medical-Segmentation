@@ -1,1 +1,2 @@
 # Stylized-Medical-Segmentation
+This repository contains the implementation of a novel medical image segmentation method that combines diffusion models and a Structure-Preserving Network for structure-aware one-shot image stylization. The proposed approach aims to mitigate domain shifts caused by variations in imaging devices, acquisition conditions, and patient-specific attributes, which often challenge the accuracy of medical image segmentation.
