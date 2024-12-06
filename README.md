@@ -6,9 +6,15 @@ In the style transfer of polyp segmentation, we recommend training for 50 iterat
 We propose a novel approach that integrates diffusion-based style transfer with image segmentation to enhance the robustness of medical image segmentation under domain shifts.
 ![figure3](https://github.com/user-attachments/assets/6ad0e8b6-2d36-4dfd-9bd4-9cd6a079a89c)
 If our ideas are helpful to you, please cite our article:
+
 @article{Jie2024Structure,
+
 title={Structure-Aware Stylized Image Synthesis for Robust Medical Image Segmentation},
+
 author={Bao, Jie and Zhou, Zhixin Zhou and Li, Wen Jung and Luo, Rui},
+
 journal={arXiv preprint arXiv:2412.04296},
+
 year={2024}
+
 }
